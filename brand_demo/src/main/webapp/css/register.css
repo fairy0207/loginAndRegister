@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size:18px;
+	font-family: "宋体", serif;
+	background:url(../img/壁纸.jpg) no-repeat top center fixed;
+	background-size:cover;
+	color:#FFF;
+}
+form,p{ padding:0; margin:0; border:0;}
+form{
+	width:420px;
+	height:200px;
+	padding-top:60px;
+	margin:200px auto;
+	background:rgba(255,255,255,0.1);
+	border:1px solid rgba(255,255,255,0.3);
+	border-radius:20px;
+}
+p{
+	margin-top:15px;
+	text-align:center;
+}
+p span{
+	width:60px;
+	display:inline-block;
+	text-align:right;
+	color:#000;
+}
+.zhanghao,.mima{
+	width:165px;
+	height:18px;
+	border:1px solid rgba(255,255,255,0.3);
+	padding:2px 2px 2px 22px;
+	border-radius:5px;
+	color:#999;
+}
+.register{
+	margin-left:20px;}
+.h4{
+	width: 100px;
+}
+h4{
+	width: 100px;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+
+.checkCode1{
+	width: 100px;
+	margin-top: -50px;
+}
+.checkCode11{
+	width: 100px;
+	height: 30px;
+	margin-left: 130px;
+}
+.img{
+	width: 1px;
+	height: 1px;
+	margin-left: 100px;
+	margin-top: -30px;
+}
+img{
+	width: 100px;
+	height: 40px;
+	margin-left: 160px;
+}
+.oooo{
+	margin: auto;
+}
+.register,.signin{
+	margin-top: 35px;
+}

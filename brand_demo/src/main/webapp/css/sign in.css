@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size:18px;
+	font-family: "宋体", serif;
+	background:url(../img/壁纸.jpg) no-repeat top center fixed;
+	background-size:cover;
+	color:#FFF;
+	}
+form,p{ padding:0; margin:0; border:0;}
+form{
+	width:420px;
+	height:200px;
+	padding-top:60px;
+	margin:200px auto;
+	background:rgba(255,255,255,0.1);
+	border:1px solid rgba(255,255,255,0.3);
+	border-radius:20px;
+	}
+p{
+	margin-top:15px;
+	text-align:center;
+	}
+p span{
+	width:60px;
+	display:inline-block;
+	text-align:right;
+	color:#000;
+	}
+#errorMsg{
+	margin-left: 90px;
+	color: crimson;
+	font-size: 25px;
+}
+.zhanghao,.mima{
+	width:165px;
+	height:18px;
+	border:1px solid rgba(255,255,255,0.3);
+	padding:2px 2px 2px 22px;
+	border-radius:5px;
+	color:#999;
+	}
+
+.register{
+	margin-left:20px;}
